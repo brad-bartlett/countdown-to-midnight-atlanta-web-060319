@@ -5,4 +5,3 @@ def countdown
     puts "#{countdown} SECOND(S)!"
     countdown -= 1
   end
-end
